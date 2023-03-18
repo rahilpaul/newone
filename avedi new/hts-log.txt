@@ -1,0 +1,19 @@
+HTTrack3.49-2 launched on Sat, 18 Mar 2023 17:08:25 at http://https://validthemes.live/themeforest/avedi/creative-agency-dark.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://validthemes.live/themeforest/avedi/creative-agency-dark.html -O "/Users/rahilpaul/websites/avedi new" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/fonts/fa-brands-400.svg (from https://validthemes.live/themeforest/avedi/assets/css/font-awesome.min.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/fonts/fa-regular-400.svg (from https://validthemes.live/themeforest/avedi/assets/css/font-awesome.min.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/fonts/fa-solid-900.svg (from https://validthemes.live/themeforest/avedi/assets/css/font-awesome.min.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/css/Flaticon.svg (from https://validthemes.live/themeforest/avedi/assets/css/flaticon-set.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/css/ElegantIcons.svg (from https://validthemes.live/themeforest/avedi/assets/css/elegant-icons.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/css/owl.video.play.png (from https://validthemes.live/themeforest/avedi/assets/css/owl.carousel.min.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/img/color-bg-2.png (from https://validthemes.live/themeforest/avedi/style.css)
+17:13:45	Error: 	"Not Found" (404) at link https://validthemes.live/themeforest/avedi/assets/img/shape/line.png (from https://validthemes.live/themeforest/avedi/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 20 seconds : 209 links scanned, 199 files written (9762470 bytes overall) [7831580 bytes received at 24473 bytes/sec], 2843105 bytes transferred using HTTP compression in 64 files, ratio 25%, 7.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
